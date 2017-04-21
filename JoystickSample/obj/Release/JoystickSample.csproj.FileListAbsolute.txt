@@ -1,0 +1,15 @@
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\bin\Release\JoystickSample.exe.config
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.Axis.resources
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.Button.resources
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.canvas.resources
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.frmMain.resources
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.Properties.Resources.resources
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.csproj.GenerateResource.Cache
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\bin\Release\JoystickSample.exe
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\bin\Release\JoystickSample.pdb
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\bin\Release\JoystickInterface.dll
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\bin\Release\JoystickInterface.pdb
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\bin\Release\JoystickInterface.xml
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.exe
+C:\Users\Danny\Documents\Docs\Desktop\joystick\JoystickSample\obj\Release\JoystickSample.pdb

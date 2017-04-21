@@ -1,0 +1,5 @@
+C:\Users\Bejan\Desktop\joystick\JoystickInterface\bin\Debug\JoystickInterface.XML
+C:\Users\Bejan\Desktop\joystick\JoystickInterface\bin\Debug\JoystickInterface.dll
+C:\Users\Bejan\Desktop\joystick\JoystickInterface\bin\Debug\JoystickInterface.pdb
+C:\Users\Bejan\Desktop\joystick\JoystickInterface\obj\Debug\JoystickInterface.dll
+C:\Users\Bejan\Desktop\joystick\JoystickInterface\obj\Debug\JoystickInterface.pdb
